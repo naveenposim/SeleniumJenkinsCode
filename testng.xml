@@ -6,6 +6,7 @@
       <class name="com.snehajenkins.NewTestPriority"/>
       <class name="com.snehajenkins.NewtestMethod"/>
       <class name="com.snehajenkins.Newtest"/>
+<class name="com.snehajenkins.Newtest222"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
